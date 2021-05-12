@@ -1,1 +1,1 @@
-# nlp.textclassification.spacy
+# nlp.text-classification.spacy
